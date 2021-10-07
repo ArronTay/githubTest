@@ -63,7 +63,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633439709951</updated>
-      <workItem from="1633439711725" duration="2377000" />
+      <workItem from="1633439711725" duration="3010000" />
+      <workItem from="1633616379074" duration="748000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1633441470802</created>
@@ -99,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file" />
